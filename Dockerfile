@@ -29,6 +29,15 @@ ENV PATH="/usr/local/go/bin:${PATH}"
 RUN apt-get update && \
     apt-get install -y libcap-dev build-essential
 
+# Install cifuzz
+RUN git clone https://github.com/asadhasan73/cifuzz.git && \
+    cd cifuzz && \
+    make install && \
+    cd .. && \
+    rm -rf cifuzz
+
+# Export cifuzz to path
+ENV PATH="/usr/local/bin/cifuzz:${PATH}" 
 
 RUN sh -c "$(curl -fsSL https://raw.githubusercontent.com/ouspg/ProjectX2/main/install.sh)"
 
