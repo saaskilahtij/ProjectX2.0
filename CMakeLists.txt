@@ -15,5 +15,5 @@ add_subdirectory(src)
 add_executable(${PROJECT_NAME} main.cpp )
 target_link_libraries(${PROJECT_NAME} PRIVATE calculator)
 
-add_fuzz_test(fuzz_test test/test.cpp)
-target_link_libraries(fuzz_test PRIVATE calculator)
+add_fuzz_test(test1 test/test.cpp)
+target_link_libraries(test1 PRIVATE calculator)
