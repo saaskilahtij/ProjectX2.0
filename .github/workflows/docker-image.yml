@@ -18,5 +18,5 @@ jobs:
     - name: Build the Docker image
       run: ./build.sh
 
-    - name: Diagnose issue
-      run: docker images
+    - name: Run the container
+      run: docker run cifuzz-docker-image

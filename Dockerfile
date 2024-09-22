@@ -47,4 +47,4 @@ RUN git clone https://github.com/saaskilahtij/ProjectX2.0.git
 WORKDIR /ProjectX/ProjectX2.0
 RUN ls -a
 
-CMD ["sh", "-c", "cifuzz run test1 > /ProjectX/ProjectX2.0/fuzzing.log 2>&1 && cat /ProjectX/ProjectX2.0/fuzzing.log"]
+RUN cifuzz run test1 
