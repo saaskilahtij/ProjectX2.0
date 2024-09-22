@@ -1,0 +1,22 @@
+Start testing: Sep 22 00:51 PDT
+----------------------------------------------------------
+Unable to find executable: /home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/fuzz_test_regression_test
+1/1 Testing: fuzz_test_regression_test_regression_test
+1/1 Test: fuzz_test_regression_test_regression_test
+Command: ""
+Directory: /home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined
+"fuzz_test_regression_test_regression_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"fuzz_test_regression_test_regression_test" end time: Sep 22 00:51 PDT
+"fuzz_test_regression_test_regression_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 22 00:51 PDT
+
+cifuzz_regression_test =   0.00 sec*proc
+

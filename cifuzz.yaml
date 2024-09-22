@@ -1,5 +1,5 @@
 ## Configuration for a CI Fuzz project
-## Generated on 2023-07-11
+## Generated on 2024-09-22
 
 ## The build system used to build this project. If not set, cifuzz tries
 ## to detect the build system automatically.
@@ -44,6 +44,9 @@ timeout: 10m
 
 ## Set the project name on the CI App.
 #project: my-project-1a2b3c4d
+
+## Set the container registry to upload fuzz containers to.
+# registry: registry.example.org/my-org/my-project
 
 ## Style for CI Fuzz.
 #style: plain

@@ -1,0 +1,4 @@
+fuzz_test_regression_test 0 0
+fuzz_test_regression_test_regression_test 0 0
+---
+fuzz_test_regression_test_regression_test

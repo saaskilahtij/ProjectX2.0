@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/src/calculator.cpp
+iostream
+-
+string
+-
+calculator.h
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/src/calculator.h
+cstdio
+-
+cstring
+-
+
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/src/calculator.h
+string
+-
+

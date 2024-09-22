@@ -1,0 +1,17 @@
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/CMakeFiles/install/strip.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/CMakeFiles/install/local.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/CMakeFiles/install.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/CMakeFiles/list_install_components.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/CMakeFiles/rebuild_cache.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/CMakeFiles/edit_cache.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/CMakeFiles/test.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/CMakeFiles/fuzz_test.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/CMakeFiles/ProjectX2.0.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/src/CMakeFiles/install/strip.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/src/CMakeFiles/install/local.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/src/CMakeFiles/install.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/src/CMakeFiles/list_install_components.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/src/CMakeFiles/rebuild_cache.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/src/CMakeFiles/edit_cache.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/src/CMakeFiles/test.dir
+/home/kali/Fuzzing/ci-cd/ProjectX2.0/.cifuzz-build/libfuzzer/address+undefined/src/CMakeFiles/calculator.dir

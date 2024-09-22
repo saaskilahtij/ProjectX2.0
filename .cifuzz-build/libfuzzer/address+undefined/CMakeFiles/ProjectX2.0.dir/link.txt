@@ -1,0 +1,1 @@
+/usr/bin/clang++ -O2 -g -DNDEBUG -fsanitize=address -fsanitize=undefined CMakeFiles/ProjectX2.0.dir/main.cpp.o -o ProjectX2.0  src/libcalculator.a 
